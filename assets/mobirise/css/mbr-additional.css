@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+#slider-1 H2 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+#slider-1 P {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-2 .navbar-toggler {
+  color: #000000;
+}
