@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -200,6 +200,20 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-4"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}\ngoogle-site-verification: google7b4cae29e9a24501.html",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }
